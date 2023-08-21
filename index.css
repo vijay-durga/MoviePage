@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+}
+
+.container-2 {
+    height: 10vh;
+    width: 95vw;
+    color: white;
+    padding: 7px;
+    margin-top: 10px;
+}
+
+.main-heading {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.button {
+    height: 40px;
+    color: #ff8348;
+    font-family: "roboto";
+    border-radius: 8px;
+    width: 110px;
+}
+
+.container-3-des {
+    color: white;
+    padding: 15px;
+    font-size: 14px;
+    height: 35vh;
+    width: 90vw;
+    margin-bottom: 25px;
+}
+
+.container-4-heading {
+    color: white;
+    font-size: 19px;
+    padding: 13px;
+}
+
+.image {
+    padding: 11px;
+    height: 130px;
+}
